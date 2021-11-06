@@ -1,0 +1,13 @@
+name: nanogram
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  nanogram:
+    main: src/nanogram.cr
+
+crystal: 1.2.1
+
+license: MIT
